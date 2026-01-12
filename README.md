@@ -6,7 +6,7 @@ I enjoy working on difficult problems and continuously expanding what I know.
 ---
 ### 🌍 Sustainability
 I care deeply about environmental sustainability, with a particular focus on pollution, energy efficiency, and waste management and recycling. 
-Rather than focusing on statements or slogans, I am motivated to contribute through practical engineering—building systems and tools that support environmental insight and improvement, with the intention of developing this further through research.
+Rather than focusing on statements or slogans, I am motivated to contribute through practical engineering. Building systems and tools that support environmental insight and improvement, with the intention of developing this further through research.
 
 ---
 
