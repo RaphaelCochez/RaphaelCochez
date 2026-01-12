@@ -36,7 +36,7 @@ My GitHub serves as a **working knowledge base**. You’ll find:
 ---
 
 ### 📄 AutoDocument — Offline AI Documentation Tool
-A **recent side project** built to automate large documentation tasks by analyzing file systems.
+A **recent side project** built to automate large documentation tasks by analyzing file system structure and content.
 
 - Recursive scanning and metadata extraction  
 - NLP-based summaries and keyword extraction  
@@ -44,7 +44,7 @@ A **recent side project** built to automate large documentation tasks by analyzi
 - Export to `.json`, `.csv`, `.xlsx`  
 - Fully offline after model download  
 
-Used for codebases, archives, datasets, and rapid folder inspection.  
+Used for generic documentation of large codebases, archives, datasets, and rapid folder inspection.  
 Still being refined to better handle complex file formats.
 
 ---
