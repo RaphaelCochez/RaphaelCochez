@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Raphael Cochez**, an **Embedded Systems & Software Engineer** interested in complex systems, automation, and real-world problem solving.  
+I'm **Raphael Cochez**,someone interested in complex systems, automation, and real-world problem solving.  
 I enjoy working on difficult problems and continuously expanding what I know.
 
 ---
